@@ -3,4 +3,7 @@ python:
   - "3.4"
   
 install:
-  - "pip install --allow-all-external -r requirements.txt"
+  - "pip install -r requirements.txt"
+
+script:
+  - python VAC_Games.py

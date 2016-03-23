@@ -3,4 +3,4 @@ python:
   - "3.4"
   
 install:
-  - "pip install -r requirements.txt"
+  - "pip install --allow-all-external -r requirements.txt"

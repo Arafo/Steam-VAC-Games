@@ -1,75 +1,75 @@
 0 || Counter-Strike: Global Offensive, 730
 1 || Call of Duty®: Black Ops III, 311210
 2 || ARK: Survival Evolved, 346110
-3 || Evolve, 273350
-4 || Garry's Mod, 4000
-5 || Killing Floor, 1250
-6 || Left 4 Dead 2, 550
-7 || Red Orchestra: Ostfront 41-45, 1200
-8 || Red Orchestra 2: Heroes of Stalingrad with Rising Storm, 35450
-9 || Resident Evil Revelations / Biohazard Revelations, 222480
-10 || Resident Evil 6 / Biohazard 6, 221040
-11 || Team Fortress 2, 440
-12 || Rust, 252490
+3 || Killing Floor, 1250
+4 || Red Orchestra: Ostfront 41-45, 1200
+5 || Red Orchestra 2: Heroes of Stalingrad with Rising Storm, 35450
+6 || Garry's Mod, 4000
+7 || Resident Evil 6 / Biohazard 6, 221040
+8 || Team Fortress 2, 440
+9 || Evolve, 273350
+10 || Resident Evil Revelations / Biohazard Revelations, 222480
+11 || Rust, 252490
+12 || Left 4 Dead 2, 550
 13 || Counter-Strike: Source, 240
-14 || Counter-Strike, 10
-15 || Counter-Strike: Condition Zero, 80
-16 || Dota 2, 570
-17 || DayZ, 221100
+14 || Dota 2, 570
+15 || DayZ, 221100
+16 || Counter-Strike, 10
+17 || Counter-Strike: Condition Zero, 80
 18 || Call of Duty®: Modern Warfare® 2, 10180
-19 || The Isle, 376210
-20 || Natural Selection 2, 4920
-21 || Unturned, 304930
-22 || Sonic & All-Stars Racing Transformed, 212480
-23 || IL-2 Sturmovik: Cliffs of Dover, 63970
+19 || HELLDIVERS™, 394510
+20 || The Isle, 376210
+21 || Natural Selection 2, 4920
+22 || Unturned, 304930
+23 || Sonic & All-Stars Racing Transformed, 212480
 24 || Call of Duty®: Modern Warfare® 3, 115300
-25 || GRID 2, 44350
-26 || HELLDIVERS™, 394510
+25 || IL-2 Sturmovik: Cliffs of Dover, 63970
+26 || GRID 2, 44350
 27 || Insurgency, 222880
 28 || Day of Defeat, 30
 29 || Wargame: European Escalation, 58610
 30 || ORION: Prelude, 104900
 31 || GRID Autosport, 255220
 32 || Half-Life: Opposing Force, 50
-33 || Half-Life, 70
-34 || Left 4 Dead, 500
+33 || Left 4 Dead, 500
+34 || Half-Life, 70
 35 || Clickr, 45500
-36 || Monday Night Combat, 63200
+36 || Swords and Soldiers HD, 63500
 37 || Deathmatch Classic, 40
 38 || HOARD, 63000
-39 || Sniper Elite: Nazi Zombie Army, 227100
-40 || Gas Guzzlers Extreme, 243800
-41 || Swords and Soldiers HD, 63500
-42 || Critter Crunch, 61730
-43 || Dark Messiah of Might & Magic, 2100
-44 || Might & Magic: Clash of Heroes, 61700
-45 || The Ship: Murder Party, 2400
-46 || 100% Orange Juice, 282800
-47 || Dungeon Defenders, 65800
-48 || Team Fortress Classic, 20
-49 || Day of Defeat: Source, 300
-50 || Nuclear Dawn, 17710
-51 || Half-Life 2: Deathmatch, 320
-52 || Moonbase Alpha, 39000
-53 || TOXIKK, 324810
-54 || Pirates, Vikings, and Knights II, 17570
-55 || No More Room in Hell, 224260
-56 || Total War: SHOGUN 2, 201270
-57 || Dino D-Day, 70000
-58 || Awesomenauts, 204300
-59 || Primal Carnage, 215470
-60 || Cry of Fear, 223710
-61 || Armello, 290340
-62 || Call of Duty®: Black Ops II, 202970
-63 || Call of Duty®: Black Ops, 42700
-64 || Chivalry: Medieval Warfare, 219640
-65 || Depth, 274940
+39 || Monday Night Combat, 63200
+40 || Critter Crunch, 61730
+41 || Sniper Elite: Nazi Zombie Army, 227100
+42 || Team Fortress Classic, 20
+43 || 100% Orange Juice, 282800
+44 || Dungeon Defenders, 65800
+45 || Dark Messiah of Might & Magic, 2100
+46 || Might & Magic: Clash of Heroes, 61700
+47 || The Ship: Murder Party, 2400
+48 || Total War: SHOGUN 2, 201270
+49 || Pirates, Vikings, and Knights II, 17570
+50 || Dungeon Defenders, 65800
+51 || TOXIKK, 324810
+52 || Pirates, Vikings, and Knights II, 17570
+53 || Total War: SHOGUN 2, 201270
+54 || Dino D-Day, 70000
+55 || Cry of Fear, 223710
+56 || Primal Carnage, 215470
+57 || No More Room in Hell, 224260
+58 || Armello, 290340
+59 || Call of Duty®: Black Ops, 42700
+60 || Gas Guzzlers Extreme, 243800
+61 || Chivalry: Medieval Warfare, 219640
+62 || Depth, 274940
+63 || Awesomenauts, 204300
+64 || Call of Duty®: Black Ops II, 202970
+65 || Day of Defeat: Source, 300
 66 || Loadout, 208090
 67 || Dying Light: The Following - Enhanced Edition, 239140
 68 || Squad, 393380
-69 || The Four Kings Casino and Slots, 260430
-70 || Out of Reach, 327090
-71 || Nether: Resurrected, 247730
+69 || Out of Reach, 327090
+70 || Nether: Resurrected, 247730
+71 || Lost Planet™: Extreme Condition, 6510
 72 || Ricochet, 60
-73 || Tower Wars, 214360
-74 || Lost Planet™: Extreme Condition, 6510
+73 || Red Faction®: Armageddon™, 55110
+74 || Grey Goo, 290790
